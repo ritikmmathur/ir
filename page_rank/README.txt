@@ -1,0 +1,1 @@
+In order to view PageRank result, replace line #32 to "$results = $solr->search($query, 0, $limit, $additionalParameters);"
